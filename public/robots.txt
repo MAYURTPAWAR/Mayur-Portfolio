@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.mpawar.in
+
+# Sitemap link - Update this with your actual domain when deployed
+Sitemap: https://www.mpawar.in/sitemap.xml
